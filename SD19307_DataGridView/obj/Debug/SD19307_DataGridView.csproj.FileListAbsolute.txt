@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\bin\Debug\SD19307_DataGridView.exe.config
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\bin\Debug\SD19307_DataGridView.exe
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\bin\Debug\SD19307_DataGridView.pdb
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.Form1.resources
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.Properties.Resources.resources
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.exe
+\\Mac\Home\Desktop\NET1021\SD19307_DataGridView\SD19307_DataGridView\obj\Debug\SD19307_DataGridView.pdb
